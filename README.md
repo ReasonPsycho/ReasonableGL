@@ -17,6 +17,6 @@ An OpenGL game engine. Project created at course called "Programowanie Aplikacji
 - **Postprocessing Effects:** Effects such as Bloom have been implemented.
 - **Particle Effect with Compute Shader:** 
   - A particle system using Compute Shader has been implemented.  
-  - It uses collision-based logic inspired by ![Coding Adventure: Simulating Fluids by Sebastian Lague](https://www.youtube.com/watch?v=rSKMYc1CQHE).  
+  - It uses collision-based logic inspired by [Coding Adventure: Simulating Fluids by Sebastian Lague](https://www.youtube.com/watch?v=rSKMYc1CQHE).  
   - The process of finding asteroids in the lookup table in the collision shader is incorrect. The correct version was lost due to uncommitted changes in GitHub.  
   - (I attempted to add handling for multiple collisions simultaneously but did not upload the working code before making the changes.)
