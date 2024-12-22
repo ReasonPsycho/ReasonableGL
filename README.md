@@ -11,6 +11,7 @@ An OpenGL game engine. Project created at course called "Programowanie Aplikacji
 - **Environment Mapping:** Reflective and refractive materials have been applied within the environment.
 - **Image-Based Lighting (IBL):** Diffuse and specular components are implemented using IBL techniques.
 - **Lighting Support:** Directional, point, and spotlight sources have been added, including gizmo representations. All light properties, such as position, direction, intensity, radius, and color, are adjustable.
+  - There is a problem with how loong distances are hadled since I didn't know more complexed techinques are reqiured.
 - **Shadow Mapping:** Implemented with PCF (Percentage-Closer Filtering) for shadow filtering.
 - **Scene Graph:** Procedurally animated objects are added to demonstrate the scene graph functionality. All objects are organized within the scene graph hierarchy.
 - **Instanced Rendering:** Successfully implemented for at least 1 million objects in the scene (e.g., grass, trees, etc.).
